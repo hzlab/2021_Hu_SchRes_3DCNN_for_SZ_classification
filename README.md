@@ -1,4 +1,4 @@
-# 3DCNNmodelsforMRIimages
+# Brain MRI-based 3D Convolutional Neural Networks for Classification of Schizophrenia and Controls
 
 ## Background 
 

@@ -1,4 +1,4 @@
-# Brain MRI-based 3D Convolutional Neural Networks for Classification of Schizophrenia and Controls
+# Structural and diffusion MRI based schizophrenia classification using 2D pretrained and 3D naive Convolutional Neural Networks
 
 ## Background 
 
@@ -28,7 +28,9 @@ Tensorflow version: Tensorflow 14.0
 
 ## Citation 
 
-Please cite our work "Hu M, Sim K, Zhou JH, Jiang X, Guan C. Brain MRI-based 3D Convolutional Neural Networks for Classification of Schizophrenia and Controls. Annu Int Conf IEEE Eng Med Biol Soc. 2020 Jul;2020:1742-1745. doi: 10.1109/EMBC44109.2020.9176610. PMID: 33018334.". 
+Please cite our work:
+- Hu, Mengjiao, Xing Qian, Siwei Liu, Amelia Jialing Koh, Kang Sim, Xudong Jiang, Cuntai Guan, and Juan Helen Zhou. “Structural and Diffusion MRI Based Schizophrenia Classification Using 2D Pretrained and 3D Naive Convolutional Neural Networks.” Schizophrenia Research 243 (2022): 330–41. https://doi.org/10.1016/j.schres.2021.06.011.
+- Hu M, Sim K, Zhou JH, Jiang X, Guan C. Brain MRI-based 3D Convolutional Neural Networks for Classification of Schizophrenia and Controls. Annu Int Conf IEEE Eng Med Biol Soc. 2020 Jul;2020:1742-1745. doi: 10.1109/EMBC44109.2020.9176610. PMID: 33018334.
 
 ## Contact
 
